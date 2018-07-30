@@ -10,3 +10,5 @@ git reflog è//record every command
 git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard versionNumber
+
+git checkout -- filename//turn to be the version of in "git add" or in "git commit"
