@@ -1,0 +1,12 @@
+git init
+git log				//catch commit log
+	 --pretty=oneline
+git status
+git diff
+	  filename
+git reflog è//record every command
+
+
+git reset --hard HEAD^
+git reset --hard HEAD^^
+git reset --hard versionNumber
