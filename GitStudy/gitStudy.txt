@@ -28,3 +28,4 @@ git checkout -b <name> // make and change to this branch
 
 git merge <name> //merge <name>branch to current branch
 git branch -d <name>  //del this branch
+git log --graph  //watch    the graph of merge
