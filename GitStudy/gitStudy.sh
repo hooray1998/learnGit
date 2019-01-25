@@ -13,6 +13,9 @@ git reset --hard versionNumber
 
 git checkout -- filename//turn to be the version of in "git add" or in "git commit"
 
+git remote add origin https://github.com/hooray1998/linuxConfig.git
+git push -u origin master
+
 git push origin master // push git from to github
 
 
