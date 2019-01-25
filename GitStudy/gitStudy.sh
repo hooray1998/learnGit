@@ -1,3 +1,5 @@
+))
+OO
 git init
 git log				 # catch commit log
 	 --pretty=oneline
