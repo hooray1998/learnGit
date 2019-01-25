@@ -41,4 +41,4 @@ git merge <name>  # merge <name>branch to current branch
 git branch -d <name>   # del this branch
 git log --graph   # watch    the graph of merge
 
-git merge  --no-ff -m "merge with no-ff"  dev    #  merge by no-fast-forward    --> benefit to watch when we merge a branch.
+git merge  --no-ff -m "说出你想说的话"  develop    #  merge by no-fast-forward    --> benefit to watch when we merge a branch.
